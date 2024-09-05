@@ -4,3 +4,5 @@ This repo contains interesting IDAPython scripts for reverse engineering. IDA Pr
 The output from `idapyswitch` is shown below.
 
 ![alt text](https://github.com/user-attachments/assets/00137a2f-75ac-473e-b9f1-9167d4732d9b)
+
+To launch the script, open your IDB file and go to File->Script file... The script prints the results in the output window.
